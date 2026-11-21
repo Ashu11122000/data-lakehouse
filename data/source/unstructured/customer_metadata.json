@@ -1,0 +1,802 @@
+[
+    {
+        "customer_id": "CUST-1001",
+        "feedback": "The order process was confusing and needs improvement.",
+        "support_notes": "Customer requested clarification regarding payment status.",
+        "preferences": "Interested in Gaming.",
+        "marketing_notes": "Customer may benefit from personalized discount offers.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1002",
+        "feedback": "The product is acceptable and meets my basic requirements.",
+        "support_notes": "Support team provided assistance with a delivery issue.",
+        "preferences": "Interested in Fashion, Accessories, Gaming.",
+        "marketing_notes": "Customer may benefit from personalized discount offers.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1003",
+        "feedback": "The service was average and there is room for improvement.",
+        "support_notes": "Customer requested help with product specifications.",
+        "preferences": "Interested in Accessories, Gaming, Sports.",
+        "marketing_notes": "Customer may be interested in personalized product recommendations.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1004",
+        "feedback": "The product was delivered on time and works as expected.",
+        "support_notes": "Support team provided assistance with a delivery issue.",
+        "preferences": "Interested in Beauty, Electronics.",
+        "marketing_notes": "Potential candidate for cross-selling related products.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1005",
+        "feedback": "The delivery was delayed and the customer experience was disappointing.",
+        "support_notes": "Customer contacted support regarding a promotional offer.",
+        "preferences": "Interested in Accessories, Electronics.",
+        "marketing_notes": "Consider loyalty program engagement opportunities.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1006",
+        "feedback": "The product quality was below my expectations.",
+        "support_notes": "No major support issues were reported during this period.",
+        "preferences": "Interested in Gaming, Accessories.",
+        "marketing_notes": "Customer may be interested in personalized product recommendations.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1007",
+        "feedback": "The products are good quality and the ordering process was smooth.",
+        "support_notes": "Customer contacted support regarding a promotional offer.",
+        "preferences": "Interested in Sports.",
+        "marketing_notes": "Consider sending relevant product updates.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1008",
+        "feedback": "The order process was confusing and needs improvement.",
+        "support_notes": "Customer requested information about product availability.",
+        "preferences": "Interested in Books.",
+        "marketing_notes": "Customer responds to product category recommendations.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1009",
+        "feedback": "The order was completed without any major issues.",
+        "support_notes": "Customer contacted support regarding order tracking.",
+        "preferences": "Interested in Accessories, Electronics, Fashion.",
+        "marketing_notes": "Suitable for seasonal promotional campaigns.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1010",
+        "feedback": "The product was delivered on time and works as expected.",
+        "support_notes": "Customer asked about the return and refund process.",
+        "preferences": "Interested in Sports, Gaming.",
+        "marketing_notes": "Potential target for new product announcements.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1011",
+        "feedback": "The service was average and there is room for improvement.",
+        "support_notes": "Customer requested clarification regarding payment status.",
+        "preferences": "Interested in Gaming.",
+        "marketing_notes": "Customer responds to product category recommendations.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1012",
+        "feedback": "The shopping experience was satisfactory.",
+        "support_notes": "No major support issues were reported during this period.",
+        "preferences": "Interested in Home Appliances, Accessories, Electronics.",
+        "marketing_notes": "Potential target for new product announcements.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1013",
+        "feedback": "The product is acceptable and meets my basic requirements.",
+        "support_notes": "Customer contacted support regarding a promotional offer.",
+        "preferences": "Interested in Electronics, Home Appliances.",
+        "marketing_notes": "Potential target for new product announcements.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1014",
+        "feedback": "I am dissatisfied with the delivery and overall experience.",
+        "support_notes": "Customer requested clarification regarding payment status.",
+        "preferences": "Interested in Gaming.",
+        "marketing_notes": "Consider sending relevant product updates.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1015",
+        "feedback": "The product is acceptable and meets my basic requirements.",
+        "support_notes": "Customer contacted support regarding a promotional offer.",
+        "preferences": "Interested in Accessories, Books, Home Appliances.",
+        "marketing_notes": "Consider loyalty program engagement opportunities.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1016",
+        "feedback": "I experienced problems with the product and customer service.",
+        "support_notes": "No major support issues were reported during this period.",
+        "preferences": "Interested in Books, Accessories.",
+        "marketing_notes": "Potential candidate for cross-selling related products.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1017",
+        "feedback": "The products are good quality and the ordering process was smooth.",
+        "support_notes": "Customer requested clarification regarding payment status.",
+        "preferences": "Interested in Accessories, Books, Beauty.",
+        "marketing_notes": "Customer responds to product category recommendations.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1018",
+        "feedback": "The product was delivered on time and works as expected.",
+        "support_notes": "Customer asked about the return and refund process.",
+        "preferences": "Interested in Beauty, Accessories, Electronics.",
+        "marketing_notes": "Consider sending relevant product updates.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1019",
+        "feedback": "The delivery experience was excellent and the product met expectations.",
+        "support_notes": "Customer requested clarification regarding payment status.",
+        "preferences": "Interested in Home Appliances.",
+        "marketing_notes": "Potential candidate for cross-selling related products.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1020",
+        "feedback": "I experienced problems with the product and customer service.",
+        "support_notes": "Customer requested information about product availability.",
+        "preferences": "Interested in Sports, Home Appliances.",
+        "marketing_notes": "Potential candidate for cross-selling related products.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1021",
+        "feedback": "The delivery was delayed and the customer experience was disappointing.",
+        "support_notes": "Support team provided assistance with a delivery issue.",
+        "preferences": "Interested in Accessories, Home Appliances, Beauty.",
+        "marketing_notes": "Consider sending relevant product updates.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1022",
+        "feedback": "The delivery was delayed and the customer experience was disappointing.",
+        "support_notes": "No major support issues were reported during this period.",
+        "preferences": "Interested in Books.",
+        "marketing_notes": "Potential target for new product announcements.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1023",
+        "feedback": "The overall shopping experience was excellent and delivery was fast.",
+        "support_notes": "Customer asked about warranty and replacement options.",
+        "preferences": "Interested in Fashion.",
+        "marketing_notes": "Consider sending relevant product updates.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1024",
+        "feedback": "The products are good quality and the ordering process was smooth.",
+        "support_notes": "Customer contacted support regarding order tracking.",
+        "preferences": "Interested in Beauty.",
+        "marketing_notes": "Customer may be interested in personalized product recommendations.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1025",
+        "feedback": "The product is acceptable and meets my basic requirements.",
+        "support_notes": "Support team provided assistance with a delivery issue.",
+        "preferences": "Interested in Home Appliances, Fashion.",
+        "marketing_notes": "Potential candidate for cross-selling related products.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1026",
+        "feedback": "I experienced problems with the product and customer service.",
+        "support_notes": "Customer asked about the return and refund process.",
+        "preferences": "Interested in Fashion.",
+        "marketing_notes": "Potential candidate for cross-selling related products.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1027",
+        "feedback": "I experienced problems with the product and customer service.",
+        "support_notes": "Customer requested clarification regarding payment status.",
+        "preferences": "Interested in Home Appliances, Fashion, Books.",
+        "marketing_notes": "Potential target for new product announcements.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1028",
+        "feedback": "The product is acceptable and meets my basic requirements.",
+        "support_notes": "Customer contacted support regarding order tracking.",
+        "preferences": "Interested in Sports, Beauty.",
+        "marketing_notes": "Customer responds to product category recommendations.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1029",
+        "feedback": "I had a great experience and would recommend the store to others.",
+        "support_notes": "Support team provided assistance with a delivery issue.",
+        "preferences": "Interested in Sports, Beauty, Books.",
+        "marketing_notes": "Potential target for new product announcements.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1030",
+        "feedback": "The product is acceptable and meets my basic requirements.",
+        "support_notes": "Customer contacted support for assistance with account information.",
+        "preferences": "Interested in Gaming, Electronics.",
+        "marketing_notes": "Consider loyalty program engagement opportunities.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1031",
+        "feedback": "The order was completed without any major issues.",
+        "support_notes": "Support team provided assistance with a delivery issue.",
+        "preferences": "Interested in Sports, Beauty, Home Appliances.",
+        "marketing_notes": "Customer may be interested in personalized product recommendations.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1032",
+        "feedback": "The order process was confusing and needs improvement.",
+        "support_notes": "Customer requested help with product specifications.",
+        "preferences": "Interested in Electronics.",
+        "marketing_notes": "Consider sending relevant product updates.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1033",
+        "feedback": "The shopping experience was satisfactory.",
+        "support_notes": "No major support issues were reported during this period.",
+        "preferences": "Interested in Books, Beauty.",
+        "marketing_notes": "Consider loyalty program engagement opportunities.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1034",
+        "feedback": "The product quality was below my expectations.",
+        "support_notes": "Customer asked about the return and refund process.",
+        "preferences": "Interested in Fashion, Beauty, Accessories.",
+        "marketing_notes": "Customer may be interested in personalized product recommendations.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1035",
+        "feedback": "The service was average and there is room for improvement.",
+        "support_notes": "Customer contacted support regarding order tracking.",
+        "preferences": "Interested in Beauty, Gaming, Fashion.",
+        "marketing_notes": "Suitable for seasonal promotional campaigns.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1036",
+        "feedback": "The product is acceptable and meets my basic requirements.",
+        "support_notes": "Customer asked about warranty and replacement options.",
+        "preferences": "Interested in Books.",
+        "marketing_notes": "Customer responds to product category recommendations.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1037",
+        "feedback": "The product quality was below my expectations.",
+        "support_notes": "Customer contacted support regarding a promotional offer.",
+        "preferences": "Interested in Sports, Accessories, Fashion.",
+        "marketing_notes": "Potential target for new product announcements.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1038",
+        "feedback": "The product is acceptable and meets my basic requirements.",
+        "support_notes": "Support team provided assistance with a delivery issue.",
+        "preferences": "Interested in Gaming.",
+        "marketing_notes": "Suitable for seasonal promotional campaigns.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1039",
+        "feedback": "I am very satisfied with the product quality and customer service.",
+        "support_notes": "Customer asked about warranty and replacement options.",
+        "preferences": "Interested in Beauty, Electronics, Books.",
+        "marketing_notes": "Customer may be interested in personalized product recommendations.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1040",
+        "feedback": "The order was completed without any major issues.",
+        "support_notes": "Customer requested information about product availability.",
+        "preferences": "Interested in Beauty, Gaming.",
+        "marketing_notes": "Potential target for new product announcements.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1041",
+        "feedback": "The order process was confusing and needs improvement.",
+        "support_notes": "Support team provided assistance with a delivery issue.",
+        "preferences": "Interested in Books.",
+        "marketing_notes": "Consider sending relevant product updates.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1042",
+        "feedback": "The delivery experience was excellent and the product met expectations.",
+        "support_notes": "Customer contacted support regarding a promotional offer.",
+        "preferences": "Interested in Books, Beauty.",
+        "marketing_notes": "Suitable for seasonal promotional campaigns.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1043",
+        "feedback": "The order process was confusing and needs improvement.",
+        "support_notes": "Customer requested help with product specifications.",
+        "preferences": "Interested in Accessories, Electronics, Fashion.",
+        "marketing_notes": "Customer may be interested in personalized product recommendations.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1044",
+        "feedback": "The products are good quality and the ordering process was smooth.",
+        "support_notes": "Customer requested clarification regarding payment status.",
+        "preferences": "Interested in Fashion.",
+        "marketing_notes": "Consider loyalty program engagement opportunities.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1045",
+        "feedback": "I experienced problems with the product and customer service.",
+        "support_notes": "Customer asked about warranty and replacement options.",
+        "preferences": "Interested in Beauty, Gaming.",
+        "marketing_notes": "Potential candidate for cross-selling related products.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1046",
+        "feedback": "I experienced problems with the product and customer service.",
+        "support_notes": "Customer asked about warranty and replacement options.",
+        "preferences": "Interested in Fashion, Accessories, Books.",
+        "marketing_notes": "Potential candidate for cross-selling related products.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1047",
+        "feedback": "The product was delivered on time and works as expected.",
+        "support_notes": "Support team provided assistance with a delivery issue.",
+        "preferences": "Interested in Gaming.",
+        "marketing_notes": "Consider sending relevant product updates.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1048",
+        "feedback": "The products are good quality and the ordering process was smooth.",
+        "support_notes": "Customer requested information about product availability.",
+        "preferences": "Interested in Beauty, Sports, Gaming.",
+        "marketing_notes": "Customer may benefit from personalized discount offers.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1049",
+        "feedback": "I had a great experience and would recommend the store to others.",
+        "support_notes": "Customer requested help with product specifications.",
+        "preferences": "Interested in Fashion.",
+        "marketing_notes": "Consider sending relevant product updates.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1050",
+        "feedback": "I am very satisfied with the product quality and customer service.",
+        "support_notes": "No major support issues were reported during this period.",
+        "preferences": "Interested in Electronics.",
+        "marketing_notes": "Customer may benefit from personalized discount offers.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1051",
+        "feedback": "I am very satisfied with the product quality and customer service.",
+        "support_notes": "No major support issues were reported during this period.",
+        "preferences": "Interested in Fashion.",
+        "marketing_notes": "Consider loyalty program engagement opportunities.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1052",
+        "feedback": "I experienced problems with the product and customer service.",
+        "support_notes": "Customer contacted support for assistance with account information.",
+        "preferences": "Interested in Home Appliances, Accessories.",
+        "marketing_notes": "Customer may be interested in personalized product recommendations.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1053",
+        "feedback": "The shopping experience was satisfactory.",
+        "support_notes": "Customer asked about the return and refund process.",
+        "preferences": "Interested in Sports, Accessories, Fashion.",
+        "marketing_notes": "Suitable for seasonal promotional campaigns.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1054",
+        "feedback": "The delivery was delayed and the customer experience was disappointing.",
+        "support_notes": "Customer asked about the return and refund process.",
+        "preferences": "Interested in Beauty.",
+        "marketing_notes": "Consider loyalty program engagement opportunities.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1055",
+        "feedback": "The product quality was below my expectations.",
+        "support_notes": "Customer contacted support regarding order tracking.",
+        "preferences": "Interested in Sports.",
+        "marketing_notes": "Customer may be interested in personalized product recommendations.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1056",
+        "feedback": "I had a great experience and would recommend the store to others.",
+        "support_notes": "Customer contacted support regarding a promotional offer.",
+        "preferences": "Interested in Fashion.",
+        "marketing_notes": "Consider sending relevant product updates.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1057",
+        "feedback": "The product is acceptable and meets my basic requirements.",
+        "support_notes": "Customer contacted support regarding a promotional offer.",
+        "preferences": "Interested in Fashion, Books, Sports.",
+        "marketing_notes": "Consider loyalty program engagement opportunities.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1058",
+        "feedback": "The delivery was delayed and the customer experience was disappointing.",
+        "support_notes": "Customer contacted support regarding a promotional offer.",
+        "preferences": "Interested in Gaming, Beauty.",
+        "marketing_notes": "Customer may be interested in personalized product recommendations.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1059",
+        "feedback": "I had a great experience and would recommend the store to others.",
+        "support_notes": "Customer asked about warranty and replacement options.",
+        "preferences": "Interested in Fashion, Books.",
+        "marketing_notes": "Consider sending relevant product updates.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1060",
+        "feedback": "The overall shopping experience was excellent and delivery was fast.",
+        "support_notes": "Support team provided assistance with a delivery issue.",
+        "preferences": "Interested in Home Appliances, Electronics, Fashion.",
+        "marketing_notes": "Potential target for new product announcements.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1061",
+        "feedback": "I am dissatisfied with the delivery and overall experience.",
+        "support_notes": "Customer contacted support regarding a promotional offer.",
+        "preferences": "Interested in Beauty, Books, Sports.",
+        "marketing_notes": "Potential target for new product announcements.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1062",
+        "feedback": "The order was completed without any major issues.",
+        "support_notes": "No major support issues were reported during this period.",
+        "preferences": "Interested in Fashion, Accessories.",
+        "marketing_notes": "Suitable for seasonal promotional campaigns.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1063",
+        "feedback": "I am dissatisfied with the delivery and overall experience.",
+        "support_notes": "Customer contacted support for assistance with account information.",
+        "preferences": "Interested in Gaming, Fashion.",
+        "marketing_notes": "Potential candidate for cross-selling related products.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1064",
+        "feedback": "The service was average and there is room for improvement.",
+        "support_notes": "Customer asked about warranty and replacement options.",
+        "preferences": "Interested in Fashion, Home Appliances.",
+        "marketing_notes": "Potential candidate for cross-selling related products.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1065",
+        "feedback": "The product is acceptable and meets my basic requirements.",
+        "support_notes": "Support team provided assistance with a delivery issue.",
+        "preferences": "Interested in Gaming.",
+        "marketing_notes": "Suitable for seasonal promotional campaigns.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1066",
+        "feedback": "The overall shopping experience was excellent and delivery was fast.",
+        "support_notes": "Customer requested information about product availability.",
+        "preferences": "Interested in Fashion, Beauty.",
+        "marketing_notes": "Customer may benefit from personalized discount offers.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1067",
+        "feedback": "The delivery experience was excellent and the product met expectations.",
+        "support_notes": "Customer contacted support regarding order tracking.",
+        "preferences": "Interested in Beauty, Gaming, Electronics.",
+        "marketing_notes": "Potential candidate for cross-selling related products.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1068",
+        "feedback": "The service was average and there is room for improvement.",
+        "support_notes": "Customer contacted support regarding order tracking.",
+        "preferences": "Interested in Sports, Home Appliances.",
+        "marketing_notes": "Suitable for seasonal promotional campaigns.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1069",
+        "feedback": "I am dissatisfied with the delivery and overall experience.",
+        "support_notes": "Customer contacted support for assistance with account information.",
+        "preferences": "Interested in Gaming.",
+        "marketing_notes": "Consider loyalty program engagement opportunities.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1070",
+        "feedback": "The products are good quality and the ordering process was smooth.",
+        "support_notes": "Customer contacted support regarding a promotional offer.",
+        "preferences": "Interested in Fashion, Accessories.",
+        "marketing_notes": "Potential target for new product announcements.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1071",
+        "feedback": "I experienced problems with the product and customer service.",
+        "support_notes": "Customer asked about warranty and replacement options.",
+        "preferences": "Interested in Electronics, Sports, Beauty.",
+        "marketing_notes": "Potential target for new product announcements.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1072",
+        "feedback": "I am very satisfied with the product quality and customer service.",
+        "support_notes": "Customer requested help with product specifications.",
+        "preferences": "Interested in Sports, Home Appliances, Accessories.",
+        "marketing_notes": "Customer may be interested in personalized product recommendations.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1073",
+        "feedback": "I am very satisfied with the product quality and customer service.",
+        "support_notes": "No major support issues were reported during this period.",
+        "preferences": "Interested in Accessories, Electronics, Fashion.",
+        "marketing_notes": "Customer may be interested in personalized product recommendations.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1074",
+        "feedback": "The delivery experience was excellent and the product met expectations.",
+        "support_notes": "Customer contacted support for assistance with account information.",
+        "preferences": "Interested in Accessories, Books.",
+        "marketing_notes": "Customer may benefit from personalized discount offers.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1075",
+        "feedback": "The products are good quality and the ordering process was smooth.",
+        "support_notes": "Customer requested help with product specifications.",
+        "preferences": "Interested in Beauty, Accessories, Sports.",
+        "marketing_notes": "Suitable for seasonal promotional campaigns.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1076",
+        "feedback": "I am very satisfied with the product quality and customer service.",
+        "support_notes": "Customer asked about the return and refund process.",
+        "preferences": "Interested in Electronics, Beauty, Gaming.",
+        "marketing_notes": "Potential target for new product announcements.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1077",
+        "feedback": "The service was average and there is room for improvement.",
+        "support_notes": "Customer requested clarification regarding payment status.",
+        "preferences": "Interested in Gaming, Books, Home Appliances.",
+        "marketing_notes": "Consider loyalty program engagement opportunities.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1078",
+        "feedback": "The delivery was delayed and the customer experience was disappointing.",
+        "support_notes": "Support team provided assistance with a delivery issue.",
+        "preferences": "Interested in Fashion, Home Appliances.",
+        "marketing_notes": "Consider sending relevant product updates.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1079",
+        "feedback": "The product quality was below my expectations.",
+        "support_notes": "Customer contacted support regarding order tracking.",
+        "preferences": "Interested in Accessories.",
+        "marketing_notes": "Customer may be interested in personalized product recommendations.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1080",
+        "feedback": "I am very satisfied with the product quality and customer service.",
+        "support_notes": "Customer requested help with product specifications.",
+        "preferences": "Interested in Home Appliances.",
+        "marketing_notes": "Potential target for new product announcements.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1081",
+        "feedback": "The product is acceptable and meets my basic requirements.",
+        "support_notes": "Customer requested information about product availability.",
+        "preferences": "Interested in Gaming.",
+        "marketing_notes": "Potential candidate for cross-selling related products.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1082",
+        "feedback": "I am very satisfied with the product quality and customer service.",
+        "support_notes": "Customer asked about warranty and replacement options.",
+        "preferences": "Interested in Books, Sports, Accessories.",
+        "marketing_notes": "Customer may benefit from personalized discount offers.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1083",
+        "feedback": "I had a great experience and would recommend the store to others.",
+        "support_notes": "Customer contacted support regarding order tracking.",
+        "preferences": "Interested in Electronics, Books.",
+        "marketing_notes": "Suitable for seasonal promotional campaigns.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1084",
+        "feedback": "The order was completed without any major issues.",
+        "support_notes": "Customer asked about warranty and replacement options.",
+        "preferences": "Interested in Accessories, Beauty, Gaming.",
+        "marketing_notes": "Potential candidate for cross-selling related products.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1085",
+        "feedback": "The product was delivered on time and works as expected.",
+        "support_notes": "Customer asked about warranty and replacement options.",
+        "preferences": "Interested in Beauty.",
+        "marketing_notes": "Customer responds to product category recommendations.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1086",
+        "feedback": "The order process was confusing and needs improvement.",
+        "support_notes": "Support team provided assistance with a delivery issue.",
+        "preferences": "Interested in Accessories.",
+        "marketing_notes": "Suitable for seasonal promotional campaigns.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1087",
+        "feedback": "I had a great experience and would recommend the store to others.",
+        "support_notes": "No major support issues were reported during this period.",
+        "preferences": "Interested in Fashion, Books.",
+        "marketing_notes": "Potential target for new product announcements.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1088",
+        "feedback": "The product quality was below my expectations.",
+        "support_notes": "Customer contacted support for assistance with account information.",
+        "preferences": "Interested in Home Appliances, Electronics.",
+        "marketing_notes": "Suitable for seasonal promotional campaigns.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1089",
+        "feedback": "I am dissatisfied with the delivery and overall experience.",
+        "support_notes": "Customer contacted support for assistance with account information.",
+        "preferences": "Interested in Beauty, Gaming.",
+        "marketing_notes": "Customer responds to product category recommendations.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1090",
+        "feedback": "The overall shopping experience was excellent and delivery was fast.",
+        "support_notes": "Customer asked about the return and refund process.",
+        "preferences": "Interested in Books, Fashion.",
+        "marketing_notes": "Customer responds to product category recommendations.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1091",
+        "feedback": "The delivery was delayed and the customer experience was disappointing.",
+        "support_notes": "Customer asked about the return and refund process.",
+        "preferences": "Interested in Gaming, Books, Sports.",
+        "marketing_notes": "Consider sending relevant product updates.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1092",
+        "feedback": "I am dissatisfied with the delivery and overall experience.",
+        "support_notes": "No major support issues were reported during this period.",
+        "preferences": "Interested in Beauty, Fashion.",
+        "marketing_notes": "Consider sending relevant product updates.",
+        "sentiment": "Negative"
+    },
+    {
+        "customer_id": "CUST-1093",
+        "feedback": "I had a great experience and would recommend the store to others.",
+        "support_notes": "Customer requested clarification regarding payment status.",
+        "preferences": "Interested in Sports, Accessories, Home Appliances.",
+        "marketing_notes": "Customer may be interested in personalized product recommendations.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1094",
+        "feedback": "The order was completed without any major issues.",
+        "support_notes": "Customer requested information about product availability.",
+        "preferences": "Interested in Gaming, Books.",
+        "marketing_notes": "Customer may be interested in personalized product recommendations.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1095",
+        "feedback": "The products are good quality and the ordering process was smooth.",
+        "support_notes": "Customer requested help with product specifications.",
+        "preferences": "Interested in Fashion.",
+        "marketing_notes": "Potential candidate for cross-selling related products.",
+        "sentiment": "Positive"
+    },
+    {
+        "customer_id": "CUST-1096",
+        "feedback": "The order was completed without any major issues.",
+        "support_notes": "Customer contacted support regarding a promotional offer.",
+        "preferences": "Interested in Electronics, Books, Sports.",
+        "marketing_notes": "Consider loyalty program engagement opportunities.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1097",
+        "feedback": "The order was completed without any major issues.",
+        "support_notes": "Customer requested clarification regarding payment status.",
+        "preferences": "Interested in Home Appliances, Electronics, Books.",
+        "marketing_notes": "Suitable for seasonal promotional campaigns.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1098",
+        "feedback": "The product was delivered on time and works as expected.",
+        "support_notes": "Customer contacted support regarding a promotional offer.",
+        "preferences": "Interested in Home Appliances, Electronics, Fashion.",
+        "marketing_notes": "Consider sending relevant product updates.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1099",
+        "feedback": "The order was completed without any major issues.",
+        "support_notes": "Customer contacted support regarding a promotional offer.",
+        "preferences": "Interested in Home Appliances, Gaming, Accessories.",
+        "marketing_notes": "Potential target for new product announcements.",
+        "sentiment": "Neutral"
+    },
+    {
+        "customer_id": "CUST-1100",
+        "feedback": "The service was average and there is room for improvement.",
+        "support_notes": "Support team provided assistance with a delivery issue.",
+        "preferences": "Interested in Electronics, Accessories, Beauty.",
+        "marketing_notes": "Customer may benefit from personalized discount offers.",
+        "sentiment": "Neutral"
+    }
+]
